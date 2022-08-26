@@ -1,2 +1,4 @@
+import os
+
 def delete_image():
-    pass
+    os.remove("images/first_img_bao_dia.jpg")
